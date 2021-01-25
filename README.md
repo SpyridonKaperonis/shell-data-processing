@@ -9,8 +9,22 @@ In this project we will learn how to
 1. Build a Markdown page in Git
 1. Use mapping, sorting, and reducing to find the most common words in a body of text. 
 
+### Useful PowerShell commands
 
-### Commands and their uses: 
+- ```cd``` : Sets the current working directory to the specified location
+- ```ls, dir``` : Gets the files and folders in the current directory
+- ```ni``` : New Item. Creates new file of the preffered type
+- ```mkdir``` : Creates new directory
+- ```rm, del``` : Removes/Deletes files and folders
+- ```pwd``` : Displays currend working directory
+- ```mv, mi``` : Moves item from one directory to another
+- ```ps``` : Displays running processes
+- ```curl``` : Gets content from a specified webpage
+- ```cat``` : Gets the content of a file
+
+
+
+### Commands and their uses 
 
 - Get the content of the website in a text file  
 ```
